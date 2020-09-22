@@ -26,6 +26,7 @@
 		"list.hoverForeground": "#EEEEEE",
 		"list.activeSelectionBackground": "#E50762",
 		"list.activeSelectionForeground": "#EEEEEE",
+		"errorForeground": "red",
 		"__BONUS__": "Using the Visual Studio Code theme documentation, style the 'activity bar'. https://code.visualstudio.com/api/references/theme-color"
 	},
 	"tokenColors": [
