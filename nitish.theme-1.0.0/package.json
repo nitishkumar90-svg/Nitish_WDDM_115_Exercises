@@ -1,0 +1,21 @@
+{
+    "name": "nitish-theme",
+    "displayName": "Nitish's Theme",
+    "description": "My first Visual Studio Code theme.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nitish's Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme.json"
+            }
+        ]
+    }
+}
